@@ -1,4 +1,4 @@
-<p align="center"><img src="../docs/images/carro.svg" width="150" alt="Carro"></p>
+<p align="center"><img src="https://github.com/carro-group-interviews/.github/blob/main/docs/images/carro.svg" width="150" alt="Carro"></p>
 
 ## About Carro
 Carro Group is a leading automotive technology company based in Singapore. We are building the next generation transportation ecosystem in Southeast Asia, starting with car buying, selling and financing. Our mission is to make the car purchasing experience seamless, stress-free and transparent for everyone in the region.
